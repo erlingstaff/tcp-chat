@@ -2,7 +2,7 @@ import random
 from time import sleep
 import os
 
-samtale = ["Guro Samtale", "Glenn Mer samtale", "Thomas Litt samtale til", "Me jeg er på venstresiden", "AleksanderGustavsson siste samtalebit", "Bot5 is typing...", "Bot5 litt samtale", "Bot4 is typing...", "Bot4 enig med det", "Bot3 is typing...", "Bot3 ikke enig med det"]
+samtale = ["Guro Samtale", "Glenn Mer samtale", "Thomas Litt samtale til", "Me is typing..." "Me jeg er på venstresiden", "AleksanderGustavsson siste samtalebit", "Bot5 is typing...", "Bot5 litt samtale", "Bot4 is typing...", "Bot4 enig med det", "Bot3 is typing...", "Bot3 ikke enig med det"]
 
 clear = lambda: os.system('cls')
 clear()
