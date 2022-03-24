@@ -14,13 +14,14 @@ def bordered(arr):
     size = os.get_terminal_size()
     text = arr.split()[0]
     mefinder = "Me"
-
     w = ""
+
     for _ in range(int(size.columns)-len(arr)-1):
         w += " "
     wl = w
     for _ in range(len(arr)-len(text)-1):
         wl += " "
+    
     exclbot = ' '.join(arr.split()[1:])
     lines = text.splitlines()
     width = max(len(s) for s in lines)
