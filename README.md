@@ -8,7 +8,7 @@ The commands have a special prefix that distinguishes them for the clients. The 
 
 In simple terms, the project works by creating a server on a port, then connecting multiple clients to that server. The server gives each client a sentence to extrapolate words from each round, and the clients respond with their opinions on the “action words” extrapolated from the sentence.
 
-A complete dissertation on the project can be found [here.](https://docs.google.com/document/d/1CNMDI9t-CQMNySm39aFZN9smh9LBHFUGUcftWbF9xcY/edit?usp=sharing)
+A complete, in-depth dissertation on the project can be found [here.](https://docs.google.com/document/d/1CNMDI9t-CQMNySm39aFZN9smh9LBHFUGUcftWbF9xcY/edit?usp=sharing)
 
 ## Client
 
