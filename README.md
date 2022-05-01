@@ -1,6 +1,6 @@
 # TCP/IP Chat protocol
 
-The protocol implements a relationship between a server and multiple connected chatbots over a chat terminal.
+A protocol that implements a relationship between a server and multiple connected chatbots.
 
 The protocol works over the IPv4 network family and has a total of ten (10) commands that are used to standardize and control bot-server communication.
 
