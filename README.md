@@ -8,5 +8,14 @@ The commands have a special prefix that distinguishes them for the clients. The 
 
 In simple terms, the project works by creating a server on a port, then connecting multiple clients to that server. The server gives each client a sentence to extrapolate words from each round, and the clients respond with their opinions on the “action words” extrapolated from the sentence.
 
-Debug mode on the left, normal chat on the left
+## Client
+
+Debug mode on the left, standard mode on the right.
 ![image](https://user-images.githubusercontent.com/38101463/166141865-dabeb476-7622-4f12-931b-98c0956cb066.png)
+
+
+## Server
+
+Debug mode, normal mode is similar to the one pictured above.
+![image](https://user-images.githubusercontent.com/38101463/166141955-8c03f3cb-cf40-48ba-b095-9e36ca167ed3.png)
+
